@@ -17,11 +17,6 @@
 
         } while (x != 0);
 
-        if (z > int.MaxValue || z < int.MinValue)
-        {
-            return 0;
-        }
-
         return z;
     }
 }

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{6EEA3608-65C6-471C-A1B5-735DB195E525}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Palindrome Number", "9. Palindrome Number\9. Palindrome Number.csproj", "{31DB8115-4563-4330-A166-B2C7857AE7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6EEA3608-65C6-471C-A1B5-735DB195E525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EEA3608-65C6-471C-A1B5-735DB195E525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EEA3608-65C6-471C-A1B5-735DB195E525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DB8115-4563-4330-A166-B2C7857AE7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DB8115-4563-4330-A166-B2C7857AE7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DB8115-4563-4330-A166-B2C7857AE7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DB8115-4563-4330-A166-B2C7857AE7EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

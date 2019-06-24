@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{AB2EF43D-CC12-43CB-8B73-C1F5BA44F527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{DF73F99A-C415-4C1A-B3D5-93D9ED430098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AB2EF43D-CC12-43CB-8B73-C1F5BA44F527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB2EF43D-CC12-43CB-8B73-C1F5BA44F527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB2EF43D-CC12-43CB-8B73-C1F5BA44F527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF73F99A-C415-4C1A-B3D5-93D9ED430098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF73F99A-C415-4C1A-B3D5-93D9ED430098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF73F99A-C415-4C1A-B3D5-93D9ED430098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF73F99A-C415-4C1A-B3D5-93D9ED430098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

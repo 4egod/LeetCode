@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodePackage", "LeetCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{2DDEB5BB-8777-499D-926E-C54BB9C2F432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDEB5BB-8777-499D-926E-C54BB9C2F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDEB5BB-8777-499D-926E-C54BB9C2F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDEB5BB-8777-499D-926E-C54BB9C2F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDEB5BB-8777-499D-926E-C54BB9C2F432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

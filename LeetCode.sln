@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProjectTemplate", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodePackage", "LeetCodePackage\LeetCodePackage.csproj", "{18692583-55D3-466C-9E02-0F61A043B2F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{18692583-55D3-466C-9E02-0F61A043B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18692583-55D3-466C-9E02-0F61A043B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18692583-55D3-466C-9E02-0F61A043B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83134F41-C2D4-4049-BD3E-A6B5FD1584EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

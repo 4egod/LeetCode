@@ -15,7 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Palindrome Number", "9. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{4272E924-8579-4290-838D-61D07E5B8091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{E13F35FC-D576-475C-914F-18C8E2DF50D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{E13F35FC-D576-475C-914F-18C8E2DF50D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.csproj", "{40551B81-37D0-4F21-A3CC-C7F404AC3BD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate", "ProjectTemplate", "{10B65A55-FCC7-4109-A605-C7D4CF01D024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProjectTemplate", "LeetCodeProjectTemplate\LeetCodeProjectTemplate.csproj", "{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodePackage", "LeetCodePackage\LeetCodePackage.csproj", "{18692583-55D3-466C-9E02-0F61A043B2F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +59,26 @@ Global
 		{E13F35FC-D576-475C-914F-18C8E2DF50D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13F35FC-D576-475C-914F-18C8E2DF50D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13F35FC-D576-475C-914F-18C8E2DF50D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40551B81-37D0-4F21-A3CC-C7F404AC3BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40551B81-37D0-4F21-A3CC-C7F404AC3BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40551B81-37D0-4F21-A3CC-C7F404AC3BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40551B81-37D0-4F21-A3CC-C7F404AC3BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18692583-55D3-466C-9E02-0F61A043B2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18692583-55D3-466C-9E02-0F61A043B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18692583-55D3-466C-9E02-0F61A043B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18692583-55D3-466C-9E02-0F61A043B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB2EF43D-CC12-43CB-8B73-C1F5BA44F527} = {10B65A55-FCC7-4109-A605-C7D4CF01D024}
+		{8F72ECF7-5CCE-4C97-AF7A-1C11C0818E55} = {10B65A55-FCC7-4109-A605-C7D4CF01D024}
+		{18692583-55D3-466C-9E02-0F61A043B2F8} = {10B65A55-FCC7-4109-A605-C7D4CF01D024}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0B5557B-F9D8-47EA-9636-0E958BD85FCD}

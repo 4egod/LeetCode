@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>LeetCode.Common</PackageId>
+    <Version>0.19.6.25</Version>
+    <Authors>Dmitry Tarasov</Authors>
+    <Product>LeetCode.Common</Product>
   </PropertyGroup>
 
 </Project>

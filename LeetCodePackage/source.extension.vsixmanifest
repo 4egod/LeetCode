@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="LeetCodePackage.90e23b57-9070-4168-be0b-ba36e86686bb" Version="1.0" Language="en-US" Publisher="Dmitry Tarasov" />
+        <DisplayName>LeetCodePackage</DisplayName>
+        <Description xml:space="preserve">LeetCode Project system.</Description>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
+    </Installation>
+    <Dependencies>
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="Project" d:ProjectName="LeetCodeProjectTemplate" d:TargetPath="|LeetCodeProjectTemplate;TemplateProjectOutputGroup|" Path="ProjectTemplates" d:VsixSubPath="ProjectTemplates" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
